@@ -26,4 +26,4 @@ Haifeng Hsu<br>
 Email:hfxu@rinslet.com
 
 ##More Help
-Please visit [rinslet.com](http://www.rinslet.com/?p=130)
+Please visit [rinslet.com](http://www.rinslet.com/?p=121)
