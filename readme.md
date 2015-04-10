@@ -19,7 +19,7 @@ windows/*.bat These bat scripts work on Windows.<br>
 2.Run generate_ca.* to generate root certificates.(<strong>If you already have ca.crt and ca.key ,you can ignore this step.</strong>)<br>
 3.Run generate_https.* to generate ssl certificates.<br>
 At last,add the ca/ca.crt in your devices.and use server/server.keystore in your tomcat.Here is the sample  configuration of tomcat's server.xml
-<code><Connector SSLEnabled="true" clientAuth="false" keystoreFile="E:/env/https/server/server.keystore" keystorePass="123456" maxThreads="150" port="443" protocol="org.apache.coyote.http11.Http11Protocol" scheme="https" secure="true" sslProtocol="TLS"/></code>
+`<Connector SSLEnabled="true" clientAuth="false" keystoreFile="E:/env/https/server/server.keystore" keystorePass="123456" maxThreads="150" port="443" protocol="org.apache.coyote.http11.Http11Protocol" scheme="https" secure="true" sslProtocol="TLS"/>`
 
 ##Author
 Haifeng Hsu<br>
