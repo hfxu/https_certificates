@@ -22,7 +22,7 @@ At last,add the ca/ca.crt in your devices.and use server/server.keystore in your
 `<Connector SSLEnabled="true" clientAuth="false" keystoreFile="E:/env/https/server/server.keystore" keystorePass="123456" maxThreads="150" port="443" protocol="org.apache.coyote.http11.Http11Protocol" scheme="https" secure="true" sslProtocol="TLS"/>`
 
 ##Author
-Haifeng Hsu<br>
+Slevin Hsu<br>
 Email:hfxu@rinslet.com
 
 ##More Help
